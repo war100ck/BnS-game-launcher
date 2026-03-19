@@ -7,6 +7,10 @@
 [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron)](https://www.electronjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)](https://getbootstrap.com/)
 
+> Prohibition of RAGEZONE Distribution. Distribution, publication, or sharing
+> of download links to this Software (or its substantial portions) on the
+> RAGEZONE forum or any related platforms is strictly prohibited.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/war100ck/BnS-game-launcher/main/screen/launcher.png" alt="Launcher" width="800px">
 </p>
